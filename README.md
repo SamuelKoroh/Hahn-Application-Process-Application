@@ -23,7 +23,7 @@ This application was built with the below technologies and so it is compulsory t
 <li>Restore and build the solution by running <pre>dotnet restore</pre>  <pre>dotnet build</pre></li>
 <li>To build the necessary docker compose service, run  <pre>docker-compose up</pre> </li>
 <li>Access the <em>frontend app </em> from http://localhost:5000/</li>
-<li>Access the <em>backend api </em> from http://localhost:5000/swaggger</li>
+<li>Access the <em>backend api </em> from http://localhost:5000/swagger</li>
 </ul>
 
 ## Application Testing (VS-Code)
