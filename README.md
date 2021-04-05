@@ -35,5 +35,5 @@ This application was built with the below technologies and so it is compulsory t
 <li>Build the frontend project with the command<pre>npm run webpack:Release</pre> </li>
 <li>Still inside of Hahn.ApplicationProcess.February2021.Web run the project with the command <pre>dotnet run</pre> </li>
 <li>Access the <em>frontend app </em> from http://localhost:5000/ or https://localhost:5001/</li>
-<li>Access the <em>backend api </em> from http://localhost:5000/swaggger or http://localhost:5001/swaggger</li>
+<li>Access the <em>backend api </em> from http://localhost:5000/swagger or http://localhost:5001/swagger</li>
 </ul>
